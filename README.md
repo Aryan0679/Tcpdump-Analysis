@@ -28,5 +28,5 @@ Your job is to document the incident in detail, including identifying the networ
 
 ## Skills Learned
 
-- **Network Traffic Analysis**: Learned how to use tools like `tcpdump` to monitor DNS and HTTP traffic during a malware investigation.
+- **Network Traffic Analysis**: Learned how to use and read tools like Tcpdump to monitor DNS and HTTP traffic during a malware investigation.
 - **Incident Documentation & Response**: Gained experience in documenting cyber incidents and recommending mitigation strategies such as brute force prevention.
