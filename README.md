@@ -28,6 +28,6 @@ Your job is to document the incident in detail, including identifying the networ
 
 ## Skills Learned
 
--  Familiarized myself with interpreting a **Tcpdump** log
--  Learned how to **read** a Tcpdump log to monitor DNS and HTTP traffic during a malware investigation.
+-  Familiarized myself with interpreting a Tcpdump log
+-  Learned how to read a Tcpdump log to monitor DNS and HTTP traffic during a malware investigation.
 
