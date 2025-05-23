@@ -25,3 +25,8 @@ A senior analyst confirms that the website was compromised. The analyst checks t
 The cybersecurity team reports that the web server was impacted by a brute force attack. The disgruntled hacker was able to guess the password easily because the admin password was still set to the default password. Additionally, there were no controls in place to prevent a brute force attack.
 
 Your job is to document the incident in detail, including identifying the network protocols used to establish the connection between the user and the website. You should also recommend a security action to take to prevent brute force attacks in the future.
+
+## Skills Learned
+
+- **Network Traffic Analysis**: Learned how to use tools like `tcpdump` to monitor DNS and HTTP traffic during a malware investigation.
+- **Incident Documentation & Response**: Gained experience in documenting cyber incidents and recommending mitigation strategies such as brute force prevention.
